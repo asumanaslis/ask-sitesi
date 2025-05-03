@@ -8,5 +8,5 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 document.getElementById("yesBtn").addEventListener("click", () => {
-  alert("Biliyordum kabul edeceğini! Seni çok seviyorum!");
+  alert("Seni çok seviyorum Tolgisim <3");
 });
